@@ -6,8 +6,6 @@
 # R file is run. The plot1.png file is also created in the same directory
 # --------------------------------------------------------------------
 #
-setwd("./Coursera/DataScienceTrack/ExploratoryDataAnalysis")
-#
 # read in the power consumption data
 #
 PconsumData   <- NULL
